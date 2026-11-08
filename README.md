@@ -1,4 +1,3 @@
-# ocpb
 # OpenCode Portable Builder
 
 A lightweight PowerShell script that builds a portable [**OpenCode**](https://opencode.ai/) package following the [PortableApps.com](https://portableapps.com/) directory structure, ready for use with **PortableApps.com Launcher Generator**.
