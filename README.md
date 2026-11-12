@@ -2,7 +2,6 @@
 
 **Fully isolated, zero-dependency, self-contained runtime environment OpenCode CLI setup.**
 
-
 ```
     ███  ████  █████ █   █  ███   ███  ████  █████    ████   ███  ████  █████  ███  ████  █     █████   
    █ ░░█ █░░░█ █░░░░░██  █░█ ░░░ █ ░░█ █░░░█ █░░░░░   █░░░█ █ ░░█ █░░░█  ░█░░░█ ░░█ █░░░█ █░    █░░░░░  
