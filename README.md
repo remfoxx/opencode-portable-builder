@@ -55,7 +55,7 @@ A lightweight PowerShell script that builds a portable [**OpenCode**](https://op
 4. Wait for the build process to complete.
 5. The generated package will be available in the `OpenCodePortable` subdirectory.
 6. Download and install [PortableApps.com Launcher](https://portableapps.com/apps/development/portableapps.com_launcher).
-7. Open **PortableApps.com Launcher Generator**, select the generated `OpenCodePortable` directory and follow the packaging instructions.
+7. Launch **PortableApps.com Launcher Generator**, select the generated `OpenCodePortable` directory and follow the packaging instructions.
 
 **Note:** The script only builds the application directory structure. PortableApps.com Launcher Generator is required to create the final portable launcher executable.
 
