@@ -1,6 +1,30 @@
+<div align="center">
+
+**Fully isolated, zero-dependency, self-contained runtime environment OpenCode CLI setup.**
+
+
+```
+ ███  ████  █████ █   █  ███   ███  ████  █████    ████   ███  ████  █████  ███  ████  █     █████   
+█ ░░█ █░░░█ █░░░░░██  █░█ ░░░ █ ░░█ █░░░█ █░░░░░   █░░░█ █ ░░█ █░░░█  ░█░░░█ ░░█ █░░░█ █░    █░░░░░  
+█░ ░█░████░░████░░█░█ █░█░ ░░░█░ ░█░█░░░█░████░░░  ████░░█░ ░█░████░░  █░░░█████░████░░█░░   ████░░░ 
+█░░ █░█░░░░ █░░░░ █░░██░█░░   █░░ █░█░░ █░█░░░░    █░░░░ █░░ █░█░░█░ ░ █░░ █░░░█░█░░░█ █░░   █░░░░   
+ ███ ░█░░░░░█████░█░░ █░░███   ███ ░████ ░█████░   █░░░░░ ███ ░█░░░█░  █░░ █░░░█░████░░█████ █████░  
+  ░░░ ░░░    ░░░░░ ░░  ░░ ░░░   ░░░ ░░░░░ ░░░░░░    ░░     ░░░ ░░░  ░   ░░  ░░  ░░░░░░ ░░░░░░ ░░░░░  
+   ░░░  ░     ░░░░░ ░   ░  ░░░   ░░░  ░░░░  ░░░░░    ░      ░░░  ░   ░   ░   ░   ░ ░░░░  ░░░░░ ░░░░░ 
+
+```
+
+[![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6?logo=windows&logoColor=white)](#)
+[![Shell](https://img.shields.io/badge/Shell-PowerShell%205.1%2B-5391FE?logo=powershell&logoColor=white)](#)
+[![Runtime](https://img.shields.io/badge/Node.js-LTS%20Portable-339933?logo=node.js&logoColor=white)](#)
+[![Package](https://img.shields.io/badge/CLI-@opencode/cli-blue?logo=npm&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+</div>
+
 # OpenCode Portable Builder
 
-A lightweight PowerShell script that builds a portable [**OpenCode**](https://opencode.ai/) package following the [PortableApps.com](https://portableapps.com/) directory structure, ready for use with **PortableApps.com Launcher Generator**.
+A lightweight PowerShell script that builds a portable [**OpenCode**](https://opencode.ai/) package following the [PortableApps.com](https://portableapps.com/) directory structure, ready for use with **PortableApps.com Launcher Generator**. Built for a clean, self-contained OpenCode experience.
 
 ## Features
 
@@ -52,4 +76,6 @@ The generated package keeps OpenCode's configuration and runtime data inside its
 
 ---
 
-<sub>Built for a clean, self-contained OpenCode experience on Windows.</sub>
+<sub>
+Unofficial tool. Not affiliated with, endorsed, or sponsored by OpenCode or Anomaly.
+</sub>
