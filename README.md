@@ -15,9 +15,9 @@
 ```
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6?logo=windows&logoColor=white)](#)
-[![Shell](https://img.shields.io/badge/Shell-PowerShell%205.1%2B-5391FE?logo=powershell&logoColor=white)](#)
-[![Runtime](https://img.shields.io/badge/Node.js-LTS%20Portable-339933?logo=node.js&logoColor=white)](#)
-[![Package](https://img.shields.io/badge/CLI-@opencode/cli-blue?logo=npm&logoColor=white)](#)
+[![Shell](https://img.shields.io/badge/Shell-PowerShell%205.1%2B-5391FE?logo=powershell&logoColor=white)](https://microsoft.com/powershell)
+[![Runtime](https://img.shields.io/badge/Node.js-LTS%20Portable-339933?logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Package](https://img.shields.io/badge/CLI-@opencode/cli-blue?logo=npm&logoColor=white)](https://www.npmjs.com/package/@opencode/cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
